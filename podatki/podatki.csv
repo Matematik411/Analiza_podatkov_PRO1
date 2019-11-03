@@ -38,7 +38,7 @@ Acme_Warehouse,Location,,,,,Amazing Fantasy,15,1962,August
 
 Actor_(Spy)_(Earth-616),Character,Actor,Unknown,Earth-616,Single,Tales of Suspense,42,1963,June
 
-Adamantine_(Metal),Item,,,,,Journey Into Mystery Annual,1,Adamantium,
+Adamantine_(Metal),Item,,,,,Journey Into Mystery Annual,1,1965,October
 
 Adam_Able_(Earth-616),Character,Adam Able,Unknown,Earth-616,Single,Journey into Mystery,82,1962,July
 
@@ -102,7 +102,7 @@ Alec_Dupledge_(Earth-928),Character,Alec Dupledge,Alec Dupledge,Earth-928,Single
 
 Aleksei_Sytsevich_(Earth-616),Character,Rhino,Aleksei Mikhailovich Sytsevich,Earth-616,Widowed,Amazing Spider-Man,41,1966,October
 
-Aleksei_Sytsevich_(Earth-92131),Character,Rhino,Unknown,Earth-92131,Single,"""The Alien Costume, Part One""",,1995,April
+Aleksei_Sytsevich_(Earth-92131),Character,Rhino,Unknown,Earth-92131,Single,"The Alien Costume, Part One",,1995,April
 
 Alexander_Gentry_(Earth-616),Character,Porcupine,Alexander Gentry,Earth-616,Single,Tales to Astonish,48,1963,October
 
@@ -126,7 +126,7 @@ Amora_(Earth-616),Character,Enchantress,Amora,Earth-616,Single,Journey into Myst
 
 Amulet_of_Agamotto,Item,,,,,Strange Tales,110,1963,July
 
-Anastasia_Hardy_(Earth-92131),Character,Anastasia Hardy,Anastasia Hardy,Earth-92131,Separated,"""Doctor Octopus: Armed and Dangerous""",,1995,February
+Anastasia_Hardy_(Earth-92131),Character,Anastasia Hardy,Anastasia Hardy,Earth-92131,Separated,Doctor Octopus: Armed and Dangerous,,1995,February
 
 Anderthorp_Henton_(Earth-928),Character,Anderthorp Henton,Anderthorp Henton,Earth-928,,Ravage 2099,1,1992,December
 
@@ -186,7 +186,7 @@ Anthony_Stark_(Earth-70813),Character,Iron Man,Anthony Edward Stark,Earth-70813,
 
 Anthony_Stark_(Earth-71016),Character,Iron Man,Anthony Edward Stark,Earth-71016,Single,The Last Fantastic Four Story,1,2007,October
 
-Anthony_Stark_(Earth-77013),Character,Iron Man,Anthony Stark,Earth-77013,,Unknown,,Unknown,
+Anthony_Stark_(Earth-77013),Character,Iron Man,Anthony Stark,Earth-77013,,Unknown,,,
 
 Anti-Magnetic_Inverter_(Spider-Man),Item,,,,,Amazing Spider-Man,2,1963,May
 
@@ -476,7 +476,7 @@ Blanche_Carter_(Earth-616),Character,Blanche Carter,Blanche Carter,Earth-616,Mar
 
 Blastaar_(Earth-616),Character,Blastaar,Blastaar,Earth-616,Widowed,Fantastic Four,62,1967,May
 
-Blastaar_(Earth-78909),Character,Blastaar,Blastaar,Earth-78909,,"""Blastaar, the Living Bomburst""",,1978,December
+Blastaar_(Earth-78909),Character,Blastaar,Blastaar,Earth-78909,,"Blastaar, the Living Bomburst",,1978,December
 
 Blips,Race,,,,,Tales to Astonish,15,1961,January
 
@@ -640,7 +640,7 @@ Carlo_Zota_(Earth-616),Character,Carlo Zota,Carlo Zota,Earth-616,,Marvel Comics,
 
 Carl_Collins_(Earth-63157),Character,Carl Collins,Carl Collins,Earth-63157,Single,Tales of Suspense,47,1963,November
 
-Carl_Creel_(Earth-600026),Character,Absorbing Man,Carl Creel,Earth-600026,,"""Absorbing Man / In My Hands This Hammer / Vengeance of the Thunder God""",,1966,October
+Carl_Creel_(Earth-600026),Character,Absorbing Man,Carl Creel,Earth-600026,,Absorbing Man / In My Hands This Hammer / Vengeance of the Thunder God,,1966,October
 
 Carl_Creel_(Earth-616),Character,Absorbing Man,Carl Creel,Earth-616,Married,Daredevil,1,1964,April
 
@@ -836,7 +836,7 @@ Crypto-Man_(Earth-616),Character,Crypto-Man,Crypto-Man,Earth-616,,Thor,174,1970,
 
 Crystalia_Amaquelin_(Earth-616),Character,Crystal,Crystalia Amaquelin,Earth-616,Separated,Fantastic Four,45,1965,December
 
-Crystalia_Amaquelin_(Earth-78909),Character,Crystal,Crystalia Amaquelin,Earth-78909,,"""Medusa and the Inhumans""",,1978,October
+Crystalia_Amaquelin_(Earth-78909),Character,Crystal,Crystalia Amaquelin,Earth-78909,,Medusa and the Inhumans,,1978,October
 
 Curtis_(Earth-616),Character,Curtis,Curtis (full name unknown),Earth-616,Single,X-Men,14,1965,November
 
@@ -906,7 +906,7 @@ Darryl_Williams_(Earth-616),Character,Darryl Williams,Darryl Williams,Earth-616,
 
 Davey_Jones_(Earth-616),Character,Davey Jones,Davey Jones,Earth-616,,Tales of Suspense,17,1961,May
 
-David_Banner_(Earth-400005),Character,Hulk,David Bruce Banner,Earth-400005,Widowed,The Incredible Hulk,,The Death of the Incredible Hulk,
+David_Banner_(Earth-400005),Character,Hulk,David Bruce Banner,Earth-400005,Widowed,The Incredible Hulk,,1977,November
 
 David_Brinkley_(Earth-616),Character,David Brinkley,David Brinkley,Earth-616,,Amazing Spider-Man,50,1967,July
 
@@ -1092,7 +1092,7 @@ Elaine_Grey_(Earth-616),Character,Elaine Grey,Elaine Grey,Earth-616,Married,X-Me
 
 Elan,Race,,,,,Fantastic Four,24,1964,March
 
-Elastika_(Earth-534834),Character,Elastika,Unknown,Earth-534834,Single,"""Silence My Companion, Death My Destination""",,1994,October
+Elastika_(Earth-534834),Character,Elastika,Unknown,Earth-534834,Single,"Silence My Companion, Death My Destination",,1994,October
 
 Elbert_Dribble_(Earth-616),Character,Elbert Dribble,Elbert Dribble,Earth-616,Single,Patsy and Hedy,79,1961,December
 
@@ -1118,7 +1118,7 @@ Elizabeth_Allan_(Earth-616),,,,,,Amazing Fantasy,15,1962,August
 
 Elizabeth_Brant_(Earth-616),,Betty Brant,"Elizabeth ""Betty"" Brant",Earth-616,Widowed,Amazing Spider-Man,4,1963,September
 
-Elizabeth_Ross_(Earth-600026),,Betty Ross,"Elizabeth ""Betty"" Ross",Earth-600026,Single,"""The Origin of the Hulk / Enter the Gorgon / To Be A Man""",,1966,
+Elizabeth_Ross_(Earth-600026),,Betty Ross,"Elizabeth ""Betty"" Ross",Earth-600026,Single,The Origin of the Hulk / Enter the Gorgon / To Be A Man,,1966,
 
 Elizabeth_Ross_(Earth-616),Character,Harpy,"Elizabeth ""Betty"" Ross Talbot Banner",Earth-616,Divorced,Incredible Hulk,1,1962,May
 
@@ -1454,7 +1454,7 @@ Gorgi_Gruff_(Earth-616),Character,Gorgi Gruff,Gorgi Gruff,Earth-616,,Journey int
 
 Gorgon_(Earth-71016),Character,Gorgon,Gorgon,Earth-71016,Single,The Last Fantastic Four Story,1,2007,October
 
-Gorgon_(Earth-78909),Character,Gorgon,Unknown,Earth-78909,,"""Medusa and the Inhumans""",,1978,October
+Gorgon_(Earth-78909),Character,Gorgon,Unknown,Earth-78909,,Medusa and the Inhumans,,1978,October
 
 Gorgon_Petragon_(Earth-616),,Gorgon,Gorgon Petragon,Earth-616,Widowed,Fantastic Four,44,1965,November
 
@@ -1482,7 +1482,7 @@ Grappler_Ray,Item,,,,,Fantastic Four,17,1963,August
 
 Gray_Madder_(Earth-616),Character,Gray Madder,Gray Madder,Earth-616,,Amazing Spider-Man,600,2009,September
 
-Great_White_Stone,Item,,,,,"""Diamond of Doom""",,1978,November
+Great_White_Stone,Item,,,,,Diamond of Doom,,1978,November
 
 Green_Berets_(Earth-928),Team,,,,,Ravage 2099,8,1993,July
 
@@ -1626,7 +1626,7 @@ Heath_Benson_(Earth-616),Character,Rattler,Heath Benson,Earth-616,,Rawhide Kid,3
 
 Hedy_Wolfe_(Earth-616),Character,Hedy Wolfe,Hedy Wolfe,Earth-616,Divorced,Miss America Magazine,2,1944,November
 
-Heimdall_(Earth-600026),Character,Heimdall,Heimdall,Earth-600026,,"""Trapped By Loki / Vengeance of Loki / Defeat of Loki""",,1966,
+Heimdall_(Earth-600026),Character,Heimdall,Heimdall,Earth-600026,,Trapped By Loki / Vengeance of Loki / Defeat of Loki,,1966,
 
 Heimdall_(Earth-616),Character,Heimdall,Heimdall,Earth-616,Single,Journey into Mystery,85,1962,October
 
@@ -1764,7 +1764,7 @@ Hulk_Simon_(Earth-616),Character,Hulk Simon,Hulk Simon,Earth-616,,2-Gun Western,
 
 Humanoids_(Leader)_(Earth-616),Team,,,,,Tales to Astonish,63,1965,January
 
-Humanoid_Experimental_Robot_B-Type_Integrated_Electronics_(Earth-78909),Character,H.E.R.B.I.E.,Humanoid Experimental Robot B-Type Integrated Electronics,Earth-78909,,"""A Monster Among Us""",,1978,September
+Humanoid_Experimental_Robot_B-Type_Integrated_Electronics_(Earth-78909),Character,H.E.R.B.I.E.,Humanoid Experimental Robot B-Type Integrated Electronics,Earth-78909,,A Monster Among Us,,1978,September
 
 Hunk_Larken_(Earth-616),Character,Magnetor,Hunk Larken,Earth-616,Single,Strange Tales,84,1961,May
 
@@ -1814,7 +1814,7 @@ Images_of_Ikonn,Item,,,,,Strange Tales,130,1965,March
 
 Impossible_Man_(Earth-616),Character,Impossible Man,N/A (Poppupians have no names),Earth-616,Married,Fantastic Four,11,1963,February
 
-Impossible_Man_(Earth-78909),Character,Impossible Man,Poppupians have no names,Earth-78909,,"""Impossible Man""",,1978,October
+Impossible_Man_(Earth-78909),Character,Impossible Man,Poppupians have no names,Earth-78909,,Impossible Man,,1978,October
 
 Impulse_Transmitter,Item,,,,,Strange Tales,124,1964,September
 
@@ -2038,7 +2038,7 @@ John_Jonah_Jameson_(Earth-77013),,J. Jonah Jameson,John Jonah Jameson,Earth-7701
 
 John_Jonah_Jameson_III_(Earth-616),Character,Man-Wolf,John Jonah Jameson III,Earth-616,Divorced,Amazing Spider-Man,1,1963,March
 
-John_Jonah_Jameson_III_(Earth-92131),Character,Colonel John Jameson,John Jonah Jameson III,Earth-92131,Single,"""The Alien Costume, Part One""",,1995,April
+John_Jonah_Jameson_III_(Earth-92131),Character,Colonel John Jameson,John Jonah Jameson III,Earth-92131,Single,"The Alien Costume, Part One",,1995,April
 
 John_Kronton_(Earth-616),Character,John Kronton,John Kronton,Earth-616,,Silver Surfer,13,1970,February
 
@@ -2180,7 +2180,7 @@ Karl_Stragg_(Earth-616),Character,Ox,Karl Ludwig Stragg ,Earth-616,Widowed,Dared
 
 Karnak_(Earth-71016),Character,Karnak,Karnak,Earth-71016,Single,The Last Fantastic Four Story,1,2007,October
 
-Karnak_(Earth-78909),Character,Karnak,Unknown,Earth-78909,,"""Medusa and the Inhumans""",,1978,October
+Karnak_(Earth-78909),Character,Karnak,Unknown,Earth-78909,,Medusa and the Inhumans,,1978,October
 
 Karnak_Mander-Azur_(Earth-616),,Magister Karnak,Karnak Mander-Azur,Earth-616,Single,Fantastic Four,45,1965,December
 
@@ -2202,7 +2202,7 @@ Kenny_Baxter_(Earth-616),Character,Kenny Baxter,Kenny Baxter,Earth-616,,Patsy an
 
 Kentauros,Race,,,,,Journey into Mystery Annual,1,1965,October
 
-Kent_Weisinger_(Earth-616),Character,Kenny Weisinger,Kent Weisinger,Earth-616,Single,Untold Tales of Spider-Man (novel),,Unknown,
+Kent_Weisinger_(Earth-616),Character,Kenny Weisinger,Kent Weisinger,Earth-616,Single,Untold Tales of Spider-Man (novel),,,
 
 Kevin_Marlow_(Earth-616),Character,Destroyer,Kevin Marlow,Earth-616,Married,Mystic Comics,6,1941,October
 
@@ -2216,7 +2216,7 @@ Kim_Sak_(Earth-616),Character,Kim Sak,Kim Sak,Earth-616,,Journey into Mystery,11
 
 King%27s_Crossing,Location,,,,,Fantastic Four,2,1962,January
 
-King_Cabot_(Earth-616),Character,King Cabot,King Cabot,Earth-616,,Kid Slade, Gunfighter,1957,May
+King_Cabot_(Earth-616),Character,King Cabot,King Cabot,Earth-616,,"Kid Slade, Gunfighter",7,1957,May
 
 King_Kobra_(Earth-616),Character,King Kobra,Unknown,Earth-616,,Kid Colt Outlaw,98,1961,May
 
@@ -2352,7 +2352,7 @@ Lightning_Lord_(Earth-616),Character,Lightning Lord,Lightning Lord,Earth-616,,Ta
 
 Linda_Brown_(Earth-616),Character,Linda Brown,Unknown,Earth-616,Single,Strange Tales,97,1962,June
 
-Linda_Carter_(Earth-616),Character,Night Nurse,Linda Jane Carter,Earth-616,Single,Linda Carter, Student Nurse,1961,September
+Linda_Carter_(Earth-616),Character,Night Nurse,Linda Jane Carter,Earth-616,Single,"Linda Carter, Student Nurse",1,1961,September
 
 Linda_Smith_(Earth-616),Character,Linda Smith,Linda Smith,Earth-616,Single,Patsy Walker,113,1964,February
 
@@ -2380,7 +2380,7 @@ Li_Chou_(Earth-616),Character,Li Chou,Li Chou,Earth-616,,Tales of Suspense,86,19
 
 Lockjaw_(Earth-616),Character,Lockjaw,Lockjaw,Earth-616,Single,Fantastic Four,45,1965,December
 
-Lockjaw_(Earth-78909),Character,Lockjaw,Lockjaw,Earth-78909,,"""Blastaar, the Living Bomburst""",,1978,December
+Lockjaw_(Earth-78909),Character,Lockjaw,Lockjaw,Earth-78909,,"Blastaar, the Living Bomburst",,1978,December
 
 Lois_Anders_(Earth-616),Character,Lois Anders,Lois Anders,Earth-616,,Sun Girl,1,1948,August
 
@@ -2588,7 +2588,7 @@ Matt_Collins_(Earth-616),Character,Matt Collins,Matt Collins,Earth-616,,Menace,3
 
 Matt_Collins_(Old_West)_(Earth-616),Character,Matt Collins,Matt Collins,Earth-616,Single,Outlaw Kid,17,1957,May
 
-Matt_Slade_(Earth-616),Character,Kid Slade,Matt Slade,Earth-616,,Matt Slade, Gunfighter,1956,May
+Matt_Slade_(Earth-616),Character,Kid Slade,Matt Slade,Earth-616,,"Matt Slade, Gunfighter",1,1956,May
 
 Maximus_Boltagon_(Earth-616),Character,Vox,Maximus Boltagon,Earth-616,Single,Fantastic Four,47,1966,February
 
@@ -2622,7 +2622,7 @@ Medusalith_Amaquelin_(Earth-616),,Commander Medusa,Medusalith Amaquelin-Boltagon
 
 Medusalith_Amaquelin_(Earth-71016),Character,Medusa,Medusalith Amaquelin,Earth-71016,Married,The Last Fantastic Four Story,1,2007,October
 
-Medusalith_Amaquelin_(Earth-78909),Character,Medusa,Medusalith Amaquelin,Earth-78909,,"""Medusa and the Inhumans""",,1978,October
+Medusalith_Amaquelin_(Earth-78909),Character,Medusa,Medusalith Amaquelin,Earth-78909,,Medusa and the Inhumans,,1978,October
 
 Megingjord,Item,,,,,Journey into Mystery,91,1963,April
 
@@ -2674,7 +2674,7 @@ Miklho_(Earth-616),Character,Miklho,Miklho,Earth-616,Single,Fantastic Four,13,19
 
 Miklos_Kozlov_(Earth-616),Character,Michael Kozlov,Michael Kozlov (,Earth-616,,Strange Tales,83,1961,April
 
-Miles_Anders_(Earth-616),Character,Miles Anders,Miles Anders,Earth-616,,Kid Slade, Gunfighter,1957,July
+Miles_Anders_(Earth-616),Character,Miles Anders,Miles Anders,Earth-616,,"Kid Slade, Gunfighter",8,1957,July
 
 Miles_Warren_(Earth-616),Character,Jackal,Miles Warren,Earth-616,Widowed,Amazing Spider-Man,31,1965,December
 
@@ -2768,7 +2768,7 @@ Mortimer_Toynbee_(Earth-616),Character,Toad,"Mortimer ""Mort"" Toynbee",Earth-61
 
 Mosquito_Man_(Earth-616),Character,Mosquito Man,Unknown,Earth-616,,Stan Lee Meets the Amazing Spider-Man,1,2006,November
 
-Mountain_Giants,Race,,,,,Journey Into Mystery,109,Odin,
+Mountain_Giants,Race,,,,,Journey Into Mystery,109,1964,October
 
 Mowfus_(Earth-616),Character,Mowfus,Mowfus,Earth-616,Married,Fantastic Four,97,1970,April
 
@@ -2970,7 +2970,7 @@ Oliver_Smith_(Earth-616),Character,Oliver P. Smith,Oliver P. Smith,Earth-616,Mar
 
 Olympians,Race,,,,,Venus,1,1948,August
 
-Oobagonians,Race,,,,,Journey Into Mystery,60,Bombu,
+Oobagonians,Race,,,,,Journey Into Mystery,60,1960,September
 
 Ophelia_Sarkissian_(Earth-616),Character,Viper,Ophelia Sarkissian,Earth-616,Divorced,Captain America,110,1969,February
 
@@ -2994,7 +2994,7 @@ Otto_Octavius_(Earth-616),Character,Spider-Man,Otto Gunther Octavius,Earth-616,S
 
 Otto_Octavius_(Earth-77013),Character,Doctor Octopus,Otto Octavius,Earth-77013,Single,Spider-Man Newspaper Strips,1977,1977,
 
-Otto_Octavius_(Earth-92131),Character,Doctor Octopus,Otto Octavius,Earth-92131,Single,"""Doctor Octopus: Armed and Dangerous""",,1995,February
+Otto_Octavius_(Earth-92131),Character,Doctor Octopus,Otto Octavius,Earth-92131,Single,Doctor Octopus: Armed and Dangerous,,1995,February
 
 Otto_Rabe_(Earth-616),Character,Otto Rabe,Otto Rabe,Earth-616,,Sgt Fury and his Howling Commandos,14,1965,January
 
@@ -3048,7 +3048,7 @@ Paul_Rodgers_(Earth-616),Character,Paul Rodgers,Paul Rodgers,Earth-616,,Journey 
 
 Paul_Smythe_(Earth-616),Character,Paul Smythe,Paul Smythe,Earth-616,,All Winners Comics,2,1941,Fall
 
-Paul_Stevenson_(Earth-92131),Character,Paul Stevenson,Paul Stevenson,Earth-92131,Single,"""The Alien Costume, Part One""",,1995,April
+Paul_Stevenson_(Earth-92131),Character,Paul Stevenson,Paul Stevenson,Earth-92131,Single,"The Alien Costume, Part One",,1995,April
 
 Peaceable_Morgan_(Earth-616),Character,Peaceable Morgan,Morgan,Earth-616,,Rawhide Kid,27,1962,April
 
@@ -3080,7 +3080,7 @@ Peter_Parker_(Earth-71016),Character,Spider-Man,Peter Benjamin Parker,Earth-7101
 
 Peter_Parker_(Earth-77013),Character,Spider-Man,Peter Benjamin Parker,Earth-77013,Married,Spider-Man Newspaper Strips,1977,1977,
 
-Peter_Parker_(Earth-78909),Character,Spider-Man,Peter Parker,Earth-78909,,"""Mole Man""",,1978,September
+Peter_Parker_(Earth-78909),Character,Spider-Man,Peter Parker,Earth-78909,,Mole Man,,1978,September
 
 Peter_Parker_(Earth-982),,Peter Parker,Peter Benjamin Parker,Earth-982,Married,What If?,105,1998,February
 
@@ -3216,7 +3216,7 @@ Quists,Race,,,,,Tales of Suspense,56,1964,August
 
 Rabble_Rouser_(Weinberg)_(Earth-616),Character,Rabble Rouser,Weinberg,Earth-616,Single,Strange Tales,119,1964,April
 
-Rachel_Carpenter_(Earth-534834),Character,Rachel Carpenter,Rachel Carpenter,Earth-534834,Single,"""Silence My Companion, Death My Destination""",,1994,October
+Rachel_Carpenter_(Earth-534834),Character,Rachel Carpenter,Rachel Carpenter,Earth-534834,Single,"Silence My Companion, Death My Destination",,1994,October
 
 Rafe_Collins_(Earth-616),Character,Rafe Collins,Rafe Collins,Earth-616,,Rawhide Kid,41,1964,August
 
@@ -3308,7 +3308,7 @@ Richard_Flint_(Earth-616),Character,Captain Flint,Richard Flint,Earth-616,,Sgt F
 
 Richard_Janus_(Earth-616),Character,Nega-Man,Richard Janus,Earth-616,Single,Fantastic Four,107,1971,February
 
-Richard_Jones_(Earth-600026),,Rick Jones,"Richard Milhouse ""Rick"" Jones",Earth-600026,Single,"""The Origin of the Hulk / Enter the Gorgon / To Be A Man""",,1966,
+Richard_Jones_(Earth-600026),,Rick Jones,"Richard Milhouse ""Rick"" Jones",Earth-600026,Single,The Origin of the Hulk / Enter the Gorgon / To Be A Man,,1966,
 
 Richard_Jones_(Earth-616),,Rick Jones,"Richard Milhouse ""Rick"" Jones",Earth-616,Divorced,Incredible Hulk,1,1962,May
 
@@ -3588,7 +3588,7 @@ Sergei_Kravinoff_(Earth-616),Character,Kraven the Hunter,Sergei Nikolaevich Krav
 
 Sergius_O%27Hoolihan_(Earth-616),Character,Sergius O'Hoolihan,Sergius O'Hoolihan,Earth-616,,Fantastic Four,79,1968,October
 
-Sergius_O%27Hoolihan_(Earth-78909),Character,Sergius O'Hoolihan,Sergius O'Hoolihan,Earth-78909,,"""Menace of Magneto""",,1978,October
+Sergius_O%27Hoolihan_(Earth-78909),Character,Sergius O'Hoolihan,Sergius O'Hoolihan,Earth-78909,,Menace of Magneto,,1978,October
 
 Sergi_Amkov_(Earth-616),Character,Sergi Amkov,Sergi Amkov,Earth-616,,Tales of Suspense,60,1964,December
 
@@ -3620,7 +3620,7 @@ Shannon,Location,,,,,Tales of Suspense,67,1965,July
 
 Sharon_Carter_(Earth-616),Character,Sharon Carter,Sharon Carter,Earth-616,Single,Tales of Suspense,75,1966,March
 
-Sharon_Carter_(Earth-8610),Character,Sharon Carter,Sharon Carter-Mace,Earth-8610,Married,Gates of What If?,,Unknown,
+Sharon_Carter_(Earth-8610),Character,Sharon Carter,Sharon Carter-Mace,Earth-8610,Married,Gates of What If?,,,
 
 Sharon_Xavier_(Earth-616),Character,Sharon Xavier,Sharon Xavier Marko,Earth-616,Married,X-Men,12,1965,July
 
@@ -4198,7 +4198,7 @@ Vashti_Cleito-Son_(Earth-616),Character,Lord Vashti,Vashti Cleito-Son,Earth-616,
 
 Venom_(Klyntar)_(Earth-77013),Character,Venom,Unknown ,Earth-77013,Single,Spider-Man Newspaper Strips,2007,2007,
 
-Venom_(Klyntar)_(Earth-92131),Character,Venom,Unknown ,Earth-92131,,"""The Alien Costume, Part One""",,1995,April
+Venom_(Klyntar)_(Earth-92131),Character,Venom,Unknown ,Earth-92131,,"The Alien Costume, Part One",,1995,April
 
 Venturas,Location,,,,,Tales of Suspense,53,1964,May
 
@@ -4336,7 +4336,7 @@ Weed_(Monster)_(Earth-616),Character,Weed,Unknown,Earth-616,,Strange Tales,94,19
 
 Weed_Wichards_(Earth-665),Character,Mister Fantastical,Weed Wichards,Earth-665,,Not Brand Echh,1,1967,August
 
-Wellington_Yinsen_(Earth-534834),Character,Wellington Yinsen,Wellington Yinsen,Earth-534834,,"""The Origin of the Mandarin""",,1994,November
+Wellington_Yinsen_(Earth-534834),Character,Wellington Yinsen,Wellington Yinsen,Earth-534834,,The Origin of the Mandarin,,1994,November
 
 Werner_von_Doom_(Earth-616),Character,Werner von Doom,Werner von Doom,Earth-616,Widowed,Fantastic Four Annual,2,1964,September
 

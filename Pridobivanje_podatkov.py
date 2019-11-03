@@ -44,11 +44,9 @@ if PRIDOBIVAM:
 
         pot = os.path.join(PODATKI, MAPA_PODATKOV)
         for zadetek in re.finditer(vzorec_elementa_na_naslovni, stran):
-            print(zadetek.group(1))
             nova_pot = os.path.join(pot, f"{zadetek.group(1)}.html")
             orodja.pripravi_imenik(nova_pot)
             orodja.shrani_spletno_stran(rf"https://marvel.fandom.com/wiki/{zadetek.group(1)}", nova_pot)
-            count += 1
 
         GLAVNA = ""    
         for nov in re.finditer(vzorec_naslednje_strani, stran):
